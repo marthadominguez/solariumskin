@@ -1,0 +1,36 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 100vh;
+  background-image: url(https://i.ibb.co/6N8mWvD/mark-eder-R9-OS29x-Jb-8-unsplash.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+
+div {
+  width: 50%;
+  max-width: 500px;
+  height: fit-content;
+  background-color: rgba(255, 242, 232, 0.507);
+  border-radius: 1rem;
+  padding: 4rem;
+}
+
+h1 {
+  font-family: "Cinzel Decorative", cursive;
+  color: rgb(78, 61, 36);
+  font-size: 3rem;
+  text-align: center;
+  line-height: 120%;
+}
+
+p {
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: rgb(78, 61, 36);
+  font-size: 1.6rem;
+  text-align: center;
+}
